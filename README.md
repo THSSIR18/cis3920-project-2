@@ -1,0 +1,2 @@
+# cis3920-project-2
+the marketing team for a cosmetics company wants to evaluate how effective their social media platform has been in engaging consumers. Data was collected on posts made from their brand’s Facebook page, including characteristics (when it was posted, type of post) and performance (number of likes, shares) of each post. See the Appendix below for a full description of the variables.
